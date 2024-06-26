@@ -1,0 +1,6 @@
+conda create -n gee python=3.9
+
+conda install -c conda-forge geemap
+
+jupyter notebook
+
