@@ -1,0 +1,16 @@
+import geopandas as gpd
+import matplotlib.pyplot as plt
+
+
+##baixando arquivos do ibge
+
+
+
+
+##lendo arquivos 
+
+data = gpd.read_file( 'C:/Users/b/Desktop/Documents/GIS DataBase/BR_UF_2022/BR_UF_2022.shp' )
+
+data
+
+
